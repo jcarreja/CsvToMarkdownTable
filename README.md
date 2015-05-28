@@ -9,7 +9,7 @@ Has been completely inspired and adapted from the Javascript version [donatj/Csv
 Example Use:
 
 ```python
-python example_csv_file.csv --delimiter , --hasHeader
+python csv_to_markdown.py example_csv_file.csv --delimiter , --hasHeader
 ```
 
 Outputs:
