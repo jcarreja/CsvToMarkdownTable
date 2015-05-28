@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 import argparse
 
 parser = argparse.ArgumentParser(description='Convert from CSV file to markdown text')
