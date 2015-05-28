@@ -1,6 +1,6 @@
 # CSV To Markdown Table
 
-Simple Python CSV to Markdown Table Converter
+Simple Python 2.7 CSV to Markdown Table Converter
 
 Requires **no external libraries**.
 
