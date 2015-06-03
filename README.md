@@ -10,6 +10,7 @@ Example Use:
 
 ```python
 python csv_to_markdown.py example_csv_file.csv --delimiter , --hasHeader
+python markdown_to_csv.py example_md_file.md
 ```
 
 Outputs:
